@@ -53,6 +53,7 @@ For example:
 docker run \
   -p 8080:8080 \
   -v </path/to/config>:/config \
+  -v </path/to/config/record>:/config/record \
   -e "EXTENSIONS=auth-ldap,auth-duo" \
   oznu/guacamole
 ```
