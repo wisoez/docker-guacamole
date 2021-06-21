@@ -1,3 +1,8 @@
+# Xem Videos và xem Terminal
+Convert / encode / view screen recording Video: https://github.com/wisoez/Guacenc-Docker/blob/master/README.md 
+
+Terminal : scriptreplay NAME.timing NAME # CentOS co san ung dung nay
+
 **:warning: This project is now archived and no longer supported. Please contact me if you maintain a replacement and would like me to link to your repo.**
 
 # Docker Guacamole
