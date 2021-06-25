@@ -10,3 +10,4 @@ services:
     volumes:
     - /data/guacamole/config:/config
     - /data/guacamole/record:/record
+    restart: always
