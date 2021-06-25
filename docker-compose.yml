@@ -3,7 +3,7 @@ version: '3'
 services:
   guacamole:
     environment:
-      '"EXTENSIONS': auth-totp"
+      EXTENSIONS: auth-totp
     image: oznu/guacamole
     ports:
     - 8080:8080
